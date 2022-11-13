@@ -30,7 +30,7 @@ function App() {
           <img src="/assets/Or_Image.png" className='img-fluid' style={{width:'100%'}}></img>
           <div style={{display:'flex', alignItems:'center',justifyContent:'center',paddingBottom:'15px',paddingTop:'20px'}}>
             <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" className='img-fluid' style={{width:'15px'}}></img>
-            <p style={{color:'#385185',fontFamily:'Segoe', fontSize:'15px',marginBottom:'0px',marginLeft:'10px',fontWeight:'bold'}}>Log in with Facebook</p>
+            <p style={{color:'#385185',fontFamily:'Roboto Regular', fontSize:'15px',marginBottom:'0px',marginLeft:'10px',fontWeight:'bold'}}>Log in with Facebook</p>
           </div>
         </div>
         <div className='col-12' style={{paddingLeft:'68px',paddingRight:'68px',marginTop:'20px'}}>
