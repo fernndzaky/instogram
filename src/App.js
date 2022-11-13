@@ -34,7 +34,7 @@ function App() {
           </div>
         </div>
         <div className='col-12' style={{paddingLeft:'68px',paddingRight:'68px',marginTop:'20px'}}>
-          <div  style={{display:'flex',flexDirection:'column', justifyContent:'space-between',height:'400px'}}>
+          <div  style={{display:'flex',flexDirection:'column', justifyContent:'space-between',height:'250px'}}>
             <p style={{color:'#385185',fontFamily:'Roboto Regular', fontSize:'13px'}}>Forgotten you password?</p>
             <p style={{color:'#222222',fontFamily:'Roboto Regular', fontSize:'15px'}}>Don't have an account? <span style={{color:'#3E96EF',fontFamily:'Roboto Bold',}}>Sign Up</span></p>
             <div>
